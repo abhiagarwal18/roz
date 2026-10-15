@@ -3,7 +3,9 @@
 **An AI that calls your parents every day, in their language.**
 It chats, reminds them about medicines, and watches for scams. Then it sends you a 3-line update.
 
-![A live call in Hindi on Mummy's phone (left); Abhishek's update thread (right)](screenshots/2-call.png)
+### [▶ Watch the 90-second demo](https://www.loom.com/share/9ef71937ee19450aa76a8f56b598c16a)
+
+[![A live call in Hindi on Mummy's phone (left); Abhishek's update thread (right). Click to watch the demo.](screenshots/2-call.png)](https://www.loom.com/share/9ef71937ee19450aa76a8f56b598c16a)
 
 > Working prototype, built in a day with Claude. The call is simulated in the browser; the real product calls a normal phone line.
 
